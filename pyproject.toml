@@ -1,0 +1,27 @@
+[project]
+name = "seller-predict-ai"
+version = "0.1.0"
+description = "AI system that predicts which homeowners are likely to sell soon"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.30",
+    "sqlalchemy>=2.0",
+    "click>=8.1",
+    "numpy>=1.26",
+    "pydantic>=2.0",
+]
+
+[project.optional-dependencies]
+ml = ["lightgbm>=4.0", "scikit-learn>=1.4"]
+dev = ["pytest>=8.0", "httpx>=0.27"]
+
+[project.scripts]
+seller-predict = "src.cli:cli"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["src*"]

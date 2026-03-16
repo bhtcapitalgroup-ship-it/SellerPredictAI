@@ -1,0 +1,4 @@
+parcel_id,decedent_name,filing_date,status,executor_name,estimated_estate_value,num_heirs,contested
+P001,John Doe Sr.,2025-10-01,in_progress,John Doe Jr.,350000,3,true
+P004,Mary Johnson Sr.,2026-01-15,filed,Mary Johnson Jr.,190000,2,false
+P009,Ed Garcia Sr.,2025-11-20,filed,Maria Garcia,165000,4,true

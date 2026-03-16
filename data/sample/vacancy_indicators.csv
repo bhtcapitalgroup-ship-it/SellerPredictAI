@@ -1,0 +1,8 @@
+parcel_id,signal,detected_date,confidence,source
+P001,utility_inactive,2025-12-01,0.90,utility_company
+P001,mail_forwarding,2025-12-15,0.85,usps
+P005,utility_inactive,2025-11-01,0.95,utility_company
+P005,overgrown_vegetation,2025-12-20,0.70,code_enforcement
+P005,mail_forwarding,2026-01-05,0.80,usps
+P007,utility_inactive,2025-10-15,0.75,utility_company
+P009,extended_absence,2025-12-01,0.60,neighbor_report

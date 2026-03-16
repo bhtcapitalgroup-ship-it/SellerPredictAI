@@ -1,0 +1,9 @@
+parcel_id,distress_type,filing_date,amount,resolved,source
+P001,foreclosure_filing,2026-02-01,320000,false,county_clerk
+P001,tax_lien,2025-11-10,14400,false,county_tax
+P005,foreclosure_filing,2026-01-15,480000,false,county_clerk
+P005,tax_lien,2025-08-20,31200,false,county_tax
+P005,code_violation,2025-12-01,,false,city_inspector
+P007,tax_lien,2025-10-05,8800,false,county_tax
+P007,mechanic_lien,2025-09-15,12000,false,county_clerk
+P009,divorce_filing,2026-01-20,,false,court_records

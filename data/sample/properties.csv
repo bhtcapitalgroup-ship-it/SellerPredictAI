@@ -1,0 +1,11 @@
+parcel_id,address,city,state,zip_code,county,latitude,longitude
+P001,123 Elm St,Austin,TX,78701,Travis,30.2672,-97.7431
+P002,456 Oak Ave,Dallas,TX,75201,Dallas,32.7767,-96.7970
+P003,789 Pine Dr,Houston,TX,77001,Harris,29.7604,-95.3698
+P004,101 Maple Ln,San Antonio,TX,78201,Bexar,29.4241,-98.4936
+P005,222 Cedar Blvd,Austin,TX,78702,Travis,30.2600,-97.7200
+P006,333 Birch Way,Dallas,TX,75202,Dallas,32.7800,-96.8000
+P007,444 Walnut St,Houston,TX,77002,Harris,29.7550,-95.3600
+P008,555 Spruce Ave,Fort Worth,TX,76102,Tarrant,32.7555,-97.3308
+P009,666 Ash Dr,San Antonio,TX,78202,Bexar,29.4300,-98.4800
+P010,777 Willow Ct,Austin,TX,78703,Travis,30.2900,-97.7600

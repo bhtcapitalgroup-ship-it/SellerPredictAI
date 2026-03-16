@@ -1,0 +1,19 @@
+{
+  "has_foreclosure": 0.18,
+  "has_bankruptcy": 0.12,
+  "has_tax_lien": 0.08,
+  "has_divorce": 0.06,
+  "num_distress_signals": 0.04,
+  "distress_recency_bonus": 0.06,
+  "has_probate": 0.15,
+  "probate_contested": 0.05,
+  "multiple_heirs": 0.04,
+  "has_utility_inactive": 0.08,
+  "has_mail_forwarding": 0.06,
+  "vacancy_confidence": 0.05,
+  "is_underwater": 0.10,
+  "high_equity": 0.06,
+  "tax_delinquent": 0.07,
+  "long_hold": 0.05,
+  "absentee_owner": 0.04
+}
